@@ -1,0 +1,5 @@
+project: flate2-rs
+target: fuzz_gz_roundtrip
+
+cmds:
+  - cmd: /fuzz_gz_roundtrip
